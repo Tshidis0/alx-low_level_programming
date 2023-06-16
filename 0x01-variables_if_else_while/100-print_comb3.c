@@ -3,7 +3,7 @@
 /**
  * main - function to print combination of two numbers
  *
- * Return : 0 on success
+ * Return: 0 on success
  */
 
 int main(void)
@@ -30,10 +30,10 @@ int main(void)
 					putchar(' ');
 				}
 			}
-                        j++;
+j++;
 		}
-                j = '0';
-                i++;
+j = '0';
+i++;
 	}
 return (0);
 }
