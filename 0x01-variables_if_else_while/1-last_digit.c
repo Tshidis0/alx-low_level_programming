@@ -13,7 +13,7 @@
 
 int main(void)
 {
-int n;	
+int n;
 int lastnum;
 
 srand(time(0));
