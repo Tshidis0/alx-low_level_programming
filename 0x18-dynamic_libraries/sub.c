@@ -1,0 +1,12 @@
+#include <stdlib.h>
+#include <stdio.h>
+/**
+ * sub -subtract two integers
+ * @a: first unt
+ * @b: second int
+ * Return: subtracted final answer
+ */
+int add(int a, int b)
+{
+        return (a - b);
+}
